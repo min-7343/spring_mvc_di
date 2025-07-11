@@ -23,7 +23,7 @@ public class ScopeService {
 	
 	public void info() {
 		System.out.println("[ss] 프로그램 버전 : "+version );
-		System.out.println("[ss] 프로그램 배포일자 : "+pubDate );
+		System.out.println("[ss] 프로그램 배포일자: : "+pubDate );
 		System.out.println("[ss] 프로그램 고객사 : "+company );
 	}//info
 	
